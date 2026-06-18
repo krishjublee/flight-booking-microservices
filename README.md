@@ -75,7 +75,8 @@ flight-booking-microservices/
 - 📊 Monitoring with Spring Boot Actuator + Prometheus + Grafana
 - 📬 Email Notification service
 - 🎨 Angular/React frontend integration
-- 🧾 PDF Ticket Generation with QR code 
+- 🧾 PDF Ticket Generation with QR code
+-    API Integration with reaworld fligts services
 
 ...
 
